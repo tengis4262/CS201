@@ -32,7 +32,7 @@ public class quiz7 {
     }
     public static void main(String[] args)
     {
-        int a[] = { 1, 1, 2, 2, 2 , 3,3,4,4,5, };
+        int a[] = { 1, 1, 2, 2, 2 };
         int n = a.length;
 
         n = removeDuplicates(a, n);
